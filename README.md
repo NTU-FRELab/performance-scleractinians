@@ -1,6 +1,6 @@
 # Data from: Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability
 
-This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalmasstephane@gmail.com](mailto: depalmasstephane@gmail.com)
+This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalmasstephane@gmail.com](mailto: depalmasstephane@gmail.com). Knit DXXXXX.Rmd to generate html and extract R code. (Latest update on 2025/01/23)
 
 1. **Author Information**
    *   First author
@@ -38,7 +38,7 @@ This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalma
 5. **Recommended citation for this dataset**
 	De Palmas S, Chen Q, Guerbet A, Hsieh YE, Hsu THT, Lin YV, Sturaro N, Wang PL, Denis V (2025), Data from: Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability, Dryad, Dataset, [https://doi.org/10.5061/dryad.xwdbrv1hw](https://doi.org/10.5061/dryad.xwdbrv1hw)
 
-\[Data and R script are also available through the GitHub repository [https://github.com/NTU-FRELab/performance-scleractinians.git](https://github.com/NTU-FRELab/performance-scleractinians.git) in order to replicate our analyses]
+
 
 ## DESCRIPTION OF THE DATA AND FILE STRUCTURE
 
