@@ -52,7 +52,7 @@ This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalma
      
 ### METHODOLOGICAL INFORMATION
 
-A detailed description of data acquisition and processing can be found in the published manuscript in Coral Reefs (https://doi.org/10.1007/10.1007/s00338-025-02617-w).
+A detailed description of data acquisition and processing can be found in the published manuscript in Coral Reefs (https://doi.org/10.1007/s00338-025-02617-w).
 
 #### DATA-SPECIFIC INFORMATION
 ##### **DePalmas_dataset_strategy_data.csv**
