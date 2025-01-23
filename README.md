@@ -1,6 +1,6 @@
 # Data from: Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability
 
-This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalmasstephane@gmail.com](mailto: depalmasstephane@gmail.com). Knit DXXXXX.Rmd to generate html and extract R code. (Latest update on 2025/01/23)
+This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalmasstephane@gmail.com](mailto: depalmasstephane@gmail.com). Knit Depalmas_et_al_CR.Rmd to generate html and extract R code. (Latest update on 2025/01/23)
 
 1. **Author Information**
    *   First author
