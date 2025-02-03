@@ -3,32 +3,32 @@
 This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalmasstephane@gmail.com](mailto: depalmasstephane@gmail.com). Knit Depalmas_et_al_CR.Rmd to generate html and extract R code. (Latest update on 2025/01/23)
 
 1. **Author Information**
-   *   First author
+-   First author
         *   Name: De Palmas, Stéphane 
         *   Institution 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
 	*   Institution 2: Faculty of Science, University of the Ryukyus, Okinawa 903-0213, Japan
-   *   Second author
+-   Second author
 	*   Name: Chen, Qi
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Third author
+-   Third author
 	*   Name: Guerbet, Arnaud
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Fourth author
+-   Fourth author
 	*   Name: Hsieh, Yunli Eric
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Fifth author
+-   Fifth author
 	*   Name: Hsu, Tsai-Hsuan Tony 
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Sixth author
+-   Sixth author
 	*   Name: Lin, Yuting Vicky 
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Seventh author
+-   Seventh author
 	*   Name: Sturaro, Nicolas
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Eighth author
+-   Eighth author
 	*   Name: Wang, Pei-Ling
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   *   Nineth & corresponding author
+-   Nineth & corresponding author
 	*   Name: Denis, Vianney
 	*   Institution: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
 	*   Email: [vianneydenis@ntu.edu.tw](mailto:vianneydenis@ntu.edu.tw)
@@ -36,7 +36,7 @@ This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalma
 3. **Geographic location of data collection**: Taiwan, West Pacific
 4. **Funding sources that supported the collection of the data**: National Science and Technology Council (NSTC), National Taiwan University
 5. **Recommended citation for this dataset**
-	De Palmas S, Chen Q, Guerbet A, Hsieh YE, Hsu THT, Lin YV, Sturaro N, Wang PL, Denis V (2025), Data from: Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability, Dryad, Dataset, [https://doi.org/10.5061/dryad.xwdbrv1hw](https://doi.org/10.5061/dryad.xwdbrv1hw)
+	De Palmas S, Chen Q, Guerbet A, Hsieh YE, Hsu THT, Lin YV, Sturaro N, Wang PL, Denis V (2025) Data from: Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability, Dryad, Dataset, [https://doi.org/10.5061/dryad.xwdbrv1hw](https://doi.org/10.5061/dryad.xwdbrv1hw)
 
 
 
