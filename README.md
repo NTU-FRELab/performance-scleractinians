@@ -50,7 +50,7 @@ This README.txt file was generated on 2025-01-22 by Stéphane De Palmas [depalma
 1. **Description of dataset** These data were generated to investigate scleractinian coral strategies in energy acquisition and allocation in the light of intraspecific variation.
 2. **File List**
 
-   File 1: DePalmas_dataset_strategy_data.csv: Excel file containing coral trait information for 7 species and environmental information prior to collection.
+   File 1: DePalmas_et_al_CR_raw.csv: Excel file containing coral trait information for 7 species and environmental information prior to collection.
 
 ### METHODOLOGICAL INFORMATION
 
@@ -59,7 +59,7 @@ A detailed description of data acquisition and processing can be found in the pu
 
 #### DATA-SPECIFIC INFORMATION
 
-##### **DePalmas\_dataset\_strategy\_data.csv**
+##### **DePalmas_et_al_CR_raw.csv**
 
 1. Number of variables/columns: 75
 2. Number of cases/rows: 197
